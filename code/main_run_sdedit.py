@@ -35,7 +35,7 @@ if __name__ == "__main__":
                         help="Prompt to accompany the reverse process. Should describe the wanted edited audio.")
     parser.add_argument("--target_neg_prompt", type=str, nargs='+', default=[""],
                         help="Negative prompt to accompany the inversion and generation process")
-    parser.add_argument('--results_path', default='sdedit', help='path to dump results', help="path to dump results")
+    parser.add_argument('--results_path', default='sdedit', help="path to dump results")
     parser.add_argument("--tstart", type=int, default=0,
                         help="Diffusion timestep to start the reverse process from. Controls editing strength.")
 
