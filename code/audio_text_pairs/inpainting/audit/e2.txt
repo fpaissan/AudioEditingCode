@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e2.wav
+A toilet flushing.

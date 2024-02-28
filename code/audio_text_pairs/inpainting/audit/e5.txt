@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e5.wav
+A sudden horn.

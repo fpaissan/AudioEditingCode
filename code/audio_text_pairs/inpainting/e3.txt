@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/e3.wav
+Sound of ducks quacking.

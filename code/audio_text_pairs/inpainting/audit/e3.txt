@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e3.wav
+A group of people are laughing.

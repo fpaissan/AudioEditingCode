@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e1.wav
+Music with rain falling and a woman speaking.

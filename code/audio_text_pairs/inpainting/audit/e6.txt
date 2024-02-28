@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e6.wav
+A baby cries followed by rustling and heavy breathing.

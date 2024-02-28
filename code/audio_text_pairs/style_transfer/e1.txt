@@ -1,0 +1,2 @@
+audio_text_pairs/addition/e1.wav
+Sound of knocking the door.

@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/e2.wav
+Sound of church bells.

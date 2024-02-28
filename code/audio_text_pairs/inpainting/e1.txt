@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/e1.wav
+Dog barking repeatedly.

@@ -1,0 +1,2 @@
+audio_text_pairs/addition/e2.wav
+Sound of gunshots in the background.

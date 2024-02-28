@@ -1,0 +1,2 @@
+audio_text_pairs/inpainting/audit/e4.wav
+Rapid typing on a keyboard.

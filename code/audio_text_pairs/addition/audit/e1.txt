@@ -1,0 +1,2 @@
+audio_text_pairs/addition/audit/e1.wav
+Engine revving while a car horn honks several times loudly.
