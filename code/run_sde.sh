@@ -27,7 +27,7 @@ for file in "$directory"/*.txt; do
 
         for tstart in 25 50 75; do
           echo WANDB_SILENT=true python -Wignore main_run_sdedit.py --init_aud $file_path --cfg_tar 3 --target_prompt "$t_arg" --num_diffusion_steps 100 --tstart $tstart --wandb_disable
-          WANDB_SILENT=true python -Wignore main_run_sdedit.py --init_aud $file_path --cfg_tar 3 --target_prompt "$t_arg" --num_diffusion_steps 100 --tstart $tstart --wandb_disable
+          WANDB_SILENT=true python -Wignore main_run_sdedit.py --init_aud $file_path --cfg_tar 3 --target_prompt "$t_arg" --num_diffusion_steps 100 --tstart $tstart --wandb_disable --results_path $stringified_path
         done
     fi
 done
