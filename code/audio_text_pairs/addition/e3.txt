@@ -1,2 +1,2 @@
-audio_text_pairs/addition/e1.wav
-Sirens wailing and gunshots in the background.
+audio_text_pairs/addition/e3.wav
+A church bell ringing with loud baby crying in the background.

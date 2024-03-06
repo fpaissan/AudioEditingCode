@@ -1,2 +1,2 @@
-audio_text_pairs/addition/e3.wav
+audio_text_pairs/style_transfer/e3.wav
 A man is giving a speech.

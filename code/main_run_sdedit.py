@@ -52,7 +52,7 @@ if __name__ == "__main__":
     image_name_png = f's{args.seed}_skip{skip}_cfg{args.cfg_tar}'
     args.image_name_png = image_name_png
 
-    wandb.login()
+    # wandb.login()
     wandb_run = wandb.init(project="AudInv", config={},
                            name=args.wandb_name if args.wandb_name is not None else image_name_png,
                            group=args.wandb_group,
@@ -112,10 +112,7 @@ if __name__ == "__main__":
         orig_audio = ldm_stable.decode_to_mel(x0)
 
     # same output
-    save_path = os.path.join(args.results_path,
-                             args.model_id.split('/')[1], os.path.basename(args.init_aud).split('.')[0],
-                             'pmt_' + "__".join([x.replace(" ", "_") for x in args.target_prompt]) +
-                             "__neg__" + "__".join([x.replace(" ", "_") for x in args.target_neg_prompt]))
+    save_path = os.path.join("eval", args.results_path)
     os.makedirs(save_path, exist_ok=True)
 
     save_full_path_spec = os.path.join(save_path, image_name_png + ".png")

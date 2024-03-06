@@ -1,2 +1,2 @@
-audio_text_pairs/addition/e2.wav
+audio_text_pairs/style_transfer/e2.wav
 Sound of gunshots in the background.

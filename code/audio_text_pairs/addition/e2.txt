@@ -1,2 +1,2 @@
-audio_text_pairs/addition/e1.wav
-Sirens wailing and gunshots in the background.
+audio_text_pairs/addition/e2.wav
+A dog barking followed by wind blowing on the microphone.
